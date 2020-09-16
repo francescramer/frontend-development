@@ -51,6 +51,7 @@ Ik wil het hebben over:
 1. Verduidelijking hamburgermenu.
 2. Vraag over de achtergrond.
 3. Lettertype Arial werkt niet.
+4. Vraag over de footer? Tot in hoeverre uitgewerkt?
 
 
 ### Verslag van meeting
