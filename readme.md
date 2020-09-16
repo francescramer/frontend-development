@@ -38,15 +38,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het bouwen van de website ging redelijk goed. Zodra ik bij het hamburgermenu kwam werd het wat lastig en heb ik de hulp van de studentassistenten ingeroepen. Ik kreeg op woensdag ochtend reactie, maar doordat ik me 's ochtends had verslapen en 's middags les had op locatie ben ik er nog niet aan toegekomen om aan te beginnen.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![](images/voortgang_week3_1)
+![](images/voortgang_week3_2)
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+1. Hamburgermenu -als ik nog geen antwoord heb-
+
 
 ### Verslag van meeting
 
@@ -56,21 +58,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -rood-
+**Je startniveau:** rood
 
-**Je focus:** -tot nu toe surface plane, maar dit weet ik nog niet honderd procent zeker-
+**Je focus:** tot nu toe surface plane, maar dit weet ik nog niet honderd procent zeker.
 
-**Je opdracht:** -https://www.pinkpop.nl/2021/ of als dit niet een goede website is https://www.rivm.nl-
+**Je opdracht:** https://www.pinkpop.nl/2021/
 
 **Screenshot(s):** 
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken]
-
-(images/homescherm_pinkpop.png)
-(images/line-up_pinkpop1.png)
-(images/line-up_pinkpop2.png)
+![](images/homescherm_pinkpop.png)
+![](images/line-up_pinkpop1.png)
+![](images/line-up_pinkpop2.png)
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-]
 
-(images/breakdownschets_homescherm1.png)
-(images/breakdownschets_homescherm2.png)
+![](images/breakdownschets_homescherm1.png)
+![](images/breakdownschets_homescherm2.png)
