@@ -42,8 +42,8 @@ Het bouwen van de website ging redelijk goed. Zodra ik bij het hamburgermenu kwa
 
 **Screenshot(s):**
 
-![](images/voortgang_week3_1)
-![](images/voortgang_week3_2)
+![](images/voortgang_week3_1.png)
+![](images/voortgang_week3_2.png)
 
 ### Agenda voor meeting
 
