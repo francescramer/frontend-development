@@ -47,7 +47,10 @@ Het bouwen van de website ging redelijk goed. Zodra ik bij het hamburgermenu kwa
 
 ### Agenda voor meeting
 
-1. Hamburgermenu -als ik nog geen antwoord heb-
+Ik wil het hebben over:
+1. Verduidelijking hamburgermenu.
+2. Vraag over de achtergrond.
+3. Lettertype Arial werkt niet.
 
 
 ### Verslag van meeting
