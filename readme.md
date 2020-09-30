@@ -30,7 +30,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Ik heb na de eerste voortgang nog niet enorm veel gedaan, ik keek heel erg op tegen het maken van mijn hamburgermenu. Uiteindelijk ben ik er wel aan begonnen, maar liep ik al snel vast. Ik vond het lastig om mijn vraag helder te formuleren, het is namelijk een beetje vreemd. Ik doe duidelijk iets fout, maar ik kan zelf niet vinden wat precies. Ik ben van plan om vanavond alsnog een goede vraag te formuleren.
+
+**Screenshots**
+![](images/voortgang_week5_1.png)
+![](images/voortgang_week5_2.png)
+
+### Agenda voor meeting
+
+Ik wil het hebben over:
+1. Mijn hamburgermenu (again...)
+2. Uitwerkingen van opdracht Humpty.
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
+
 
 
 
@@ -56,8 +73,7 @@ Ik wil het hebben over:
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
+Ik weet hoe ver ik ben en wat ik moet doen. Ik heb antwoorden op mijn vragen en ga zo snel mogelijk door met coderen.
 
 
 ## Intake (week 1)

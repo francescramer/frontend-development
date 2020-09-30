@@ -1,13 +1,16 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
 }
 
 body {
+    position: relative;
     background-color: black;
-    color:white;
-    font-family:"arial", sans-serif;
-    
+    color: white;
+    font-family: "arial", sans-serif;
+
 }
 
 #logo {
@@ -17,63 +20,111 @@ body {
     margin-right: auto;
 }
 
+nav {
+    background-color: black;
+}
+
+.hamburger {
+    position:absolute;
+    right:0;
+    top:0;
+    width:2em;
+}
+
+ul {
+    list-style: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transform: translateY(-100%);
+
+}
+
+li {
+    font-size: 1.6em;
+    font-weight: bold;
+    padding: 0.2em 0em
+}
+
+.unavailable {
+    color: dimgrey;
+}
+
+div {
+    padding: 2em 0em;
+}
+
+div li {
+    font-size: 1.2em;
+}
+
+.yellow {
+    font-size: 1em;
+    color: yellow;
+
+}
+
+
+
 h1 {
     font-size: 16px;
     text-align: center;
     font-weight: bold;
+    color:white;
 }
 
 p {
     text-align: center;
-    font-size:14px;
-    background-color:yellow;
-    margin:0em 2.5em;
+    font-size: 14px;
+    background-color: yellow;
+    margin: 0em 2.5em;
     padding: 0.25em 1em;
-    border-radius:10em;
-    color:black;
+    border-radius: 10em;
+    color: black;
     font-weight: bold;
 }
 
 img {
-    width:100%;
+    width: 100%;
     min-width: 10em;
     max-width: 30em;
-    padding:1em; 
-    
+    padding: 1em;
+
 }
 
 section {
     display: flex;
-    flex-direction:row;
-    flex-wrap:wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
 .artikel {
-    position:relative;
+    position: relative;
 }
 
 .artikel h1 {
-    position:absolute;
-    margin:0; 
-    padding:0 2.5em 0.5em;
-    left:0;
-    right:0;
-    bottom:3em;
+    position: absolute;
+    margin: 0;
+    padding: 0 2.5em 0.5em;
+    left: 0;
+    right: 0;
+    bottom: 3em;
     max-width: 85%;
     text-align: left;
 }
 
 .artikel p {
-    position:absolute;
-    margin:0 2em 0.5em; 
-    padding:0.25em 1em;
-    left:0;
-    bottom:1.5em;
-    max-width:25em;
-    background-color:black;
-    border-radius:10em;
+    position: absolute;
+    margin: 0 2em 0.5em;
+    padding: 0.25em 1em;
+    left: 0;
+    bottom: 1.5em;
+    max-width: 25em;
+    background-color: black;
+    border-radius: 10em;
     text-align: left;
-    color:white;
+    color: white;
 }
-
