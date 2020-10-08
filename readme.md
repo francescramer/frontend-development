@@ -24,7 +24,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Ik heb na vorige week nog niet aan frontend gezeten, deels door een slechte planning en deels door uitstelgedrag. Ik heb voor deze week geen nieuwe screenshots en geen extra vragen.
+
+### Verslag van meeting
 
 
 
@@ -45,9 +47,7 @@ Ik wil het hebben over:
 2. Uitwerkingen van opdracht Humpty.
 
 ### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
-
+Het is duidelijk waarom mijn hamburgermenu niet werkt zoals ik wil, maar ik heb nog geen uitwerkingen van de Humpty ontvangen.
 
 
 
