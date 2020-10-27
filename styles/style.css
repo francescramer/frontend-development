@@ -364,6 +364,15 @@ button {
         font-size: 0.6em;
         bottom: 8em;
     }
+    
+    button {
+        margin:25%;
+    }
+    
+    .picture {
+        width:20em;
+        height: 11.2em;
+    }
 }
 
 @media (min-width:40em) {
