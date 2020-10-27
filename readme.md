@@ -6,15 +6,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.youtube.com/watch?v=BN6fH1nRDxA
+Deze video heb ik gebruikt voor mijn hamburgermenu. Ik vond de uitleg erg duidelijk en ik kon het gemakkelijk toepassen op mijn eigen code. Ik heb een aantal class namen overgenomen, zodat ik tijdens de video niet in de war zou raken over waar hij mee bezig was. 
+
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+3. https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+
+4. Verder heb ik veel gekeken naar de opdrachten die ik heb gedaan voor de lessen.
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Eindelijk heb ik mijn hamburgermenu gemaakt met wat hulp van de bovenstaande bron. Ik merkte wel dat ik echt heel veel classes heb gebruikt, eigenlijk meer dan dat ik wil. Maar ik heb het idee dat als ik dat nu nog wil aanpassen, dat ik er een bende van ga maken.
 
 **Screenshot(s):**
 
@@ -29,7 +34,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik heb na vorige week nog niet aan frontend gezeten, deels door een slechte planning en deels door uitstelgedrag. Ik heb voor deze week geen nieuwe screenshots en geen extra vragen.
 
 ### Verslag van meeting
-
+De meeting ging prima, ik kreeg de tip om voor mijn hamburgermenu even te zoeken op internet naar wat video's. Dit aangezien ik de humpty opdracht niet goed had gemaakt en niet wist hoe ik hiermee verder moest.
 
 
 ## Voortgang 2 (week 5)
@@ -60,7 +65,6 @@ Het is duidelijk waarom mijn hamburgermenu niet werkt zoals ik wil, maar ik heb 
 Het bouwen van de website ging redelijk goed. Zodra ik bij het hamburgermenu kwam werd het wat lastig en heb ik de hulp van de studentassistenten ingeroepen. Ik kreeg op woensdag ochtend reactie, maar doordat ik me 's ochtends had verslapen en 's middags les had op locatie ben ik er nog niet aan toegekomen om aan te beginnen.
 
 **Screenshot(s):**
-
 ![](images/voortgang_week3_1.png)
 ![](images/voortgang_week3_2.png)
 
@@ -80,14 +84,16 @@ Ik weet hoe ver ik ben en wat ik moet doen. Ik heb antwoorden op mijn vragen en 
 
 ## Intake (week 1)
 
-**Je startniveau:** rood
+**Je startniveau:** 
+rood
 
-**Je focus:** tot nu toe surface plane, maar dit weet ik nog niet honderd procent zeker.
+**Je focus:** 
+Ik ga mijn website responsive maken.
 
-**Je opdracht:** https://www.pinkpop.nl/2021/
+**Je opdracht:** 
+https://www.pinkpop.nl/2021/
 
 **Screenshot(s):** 
-
 ![](images/homescherm_pinkpop.png)
 ![](images/line-up_pinkpop1.png)
 ![](images/line-up_pinkpop2.png)
