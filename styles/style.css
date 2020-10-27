@@ -276,12 +276,15 @@ h2 {
 
 .aankopen {
     position: relative;
+    width: 100%;
+
 }
 
 
 .picture {
-    width: 90%;
+    max-width: 90%;
     padding: 1em;
+    margin: 5%;
 }
 
 .aankopen h1 {
@@ -353,7 +356,6 @@ button {
     .aankopen h1 {
         font-size: 1em;
         bottom: 6em;
-
     }
     
     .aankopen h2 {
@@ -367,11 +369,6 @@ button {
     
     button {
         margin:25%;
-    }
-    
-    .picture {
-        width:20em;
-        height: 11.2em;
     }
 }
 
