@@ -301,11 +301,10 @@ h2 {
     position: absolute;
     margin: 0 2em 0.5em;
     padding: 0.25em 1em;
-    left: 3em;
+    left: 1em;
     bottom: 10em;
     max-width: 25em;
-    background-color: black;
-    border-radius: 10em;
+    background-color: transparent;
     text-align: left;
     color: white;
 }
@@ -349,6 +348,21 @@ button {
 
     #volgorde {
         order: 2;
+    }
+    
+    .aankopen h1 {
+        font-size: 1em;
+        bottom: 6em;
+
+    }
+    
+    .aankopen h2 {
+        font-size: 1.2em;
+    }
+    
+    .aankopen p {
+        font-size: 0.6em;
+        bottom: 8em;
     }
 }
 
