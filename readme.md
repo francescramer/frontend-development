@@ -19,9 +19,9 @@ Deze video heb ik gebruikt voor mijn hamburgermenu. Ik vond de uitleg erg duidel
 
 ## Eindgesprek (week 7/8)
 
-Eindelijk heb ik mijn hamburgermenu gemaakt met wat hulp van de bovenstaande bron. Ik merkte wel dat ik echt heel veel classes heb gebruikt, eigenlijk meer dan dat ik wil. Maar ik heb het idee dat als ik dat nu nog wil aanpassen, dat ik er een bende van ga maken.
+Eindelijk heb ik mijn hamburgermenu gemaakt met wat hulp van de bovenstaande bron. Ik merkte wel dat ik echt heel veel classes heb gebruikt, eigenlijk meer dan dat ik had gewild. Het meeste werk was het responsive maken van de website en alle problemen dat dat met zich meebracht in de code oplossen. 
 
-**Screenshot(s):**
+**Screenshots:**
 
 Homepage
 ![](images/readme_home_full_1.png)
