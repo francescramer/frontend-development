@@ -232,7 +232,7 @@ section {
 
 .white ul {
     width:85%;
-    margin:7.5%
+    margin: 0em 7.5% 1em;
 }
 
 .white li {
@@ -326,13 +326,18 @@ h2 {
     text-shadow: 5px 3px 0 black;
 }
 
+.nieuws {
+    display: flex;
+    justify-content: space-around;
+    margin:5em;
+}
+
 button {
     background-color: transparent;
     border: solid white 2px;
     color: white;
     padding: 1em 2em;
     border-radius: 10em;
-    margin: 7em 36%;
     font-size: 1em;
 }
 
@@ -355,20 +360,18 @@ button {
     
     .aankopen h1 {
         font-size: 1em;
-        bottom: 6em;
+        bottom: 8.5em;
     }
     
     .aankopen h2 {
         font-size: 1.2em;
+        bottom: 4.2em;
+        width:80%
     }
     
     .aankopen p {
         font-size: 0.6em;
-        bottom: 8em;
-    }
-    
-    button {
-        margin:25%;
+        bottom: 12em;
     }
 }
 
@@ -457,18 +460,20 @@ button {
     }
     
     .aankopen h1 {
-        padding:0 6em 2.7em;
+        padding: 0 5em 2.7em;
+        margin: 0 0.8em 0.5em
     }
     
     .aankopen h2 {
         padding:0 2.3em 3em;
+        width:100%;
 
     }
     
     .aankopen p {
-        margin: 0 8em 4.5em
+        margin: 0 8em 4.5em;
+        padding: 0em 2em 1em;
     }
-    
 }
 
 

@@ -23,8 +23,38 @@ Eindelijk heb ik mijn hamburgermenu gemaakt met wat hulp van de bovenstaande bro
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+Homepage
+![](images/readme_home_full_1)
+![](images/readme_home_full_2)
 
+![](images/readme_home_part_1)
+![](images/readme_home_part_2)
+
+![](images/readme_home_mobile_1)
+![](images/readme_home_mobile_2)
+
+Hamburgermenu
+![](images/readme_hamburger_full)
+
+![](images/readme_hamburger_part)
+
+![](images/readme_hamburger_mobile)
+
+Tweede pagina
+![](images/readme_page_full_1)
+![](images/readme_page_full_2)
+![](images/readme_page_full_3)
+![](images/readme_page_full_4)
+
+![](images/readme_page_part_1)
+![](images/readme_page_part_2)
+![](images/readme_page_part_3)
+![](images/readme_page_part_4)
+
+![](images/readme_page_mobile_1)
+![](images/readme_page_mobile_2)
+![](images/readme_page_mobile_3)
+![](images/readme_page_mobile_4)
 
 
 ## Voortgang 3 (week 6)
