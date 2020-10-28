@@ -228,6 +228,7 @@ section {
     font-weight: 100;
     text-align: left;
     margin: 1em;
+    width:100%
 }
 
 .white ul {
@@ -371,7 +372,7 @@ button {
     
     .aankopen p {
         font-size: 0.6em;
-        bottom: 12em;
+        bottom: 13em;
     }
 }
 
@@ -460,18 +461,18 @@ button {
     }
     
     .aankopen h1 {
-        padding: 0 5em 2.7em;
+        padding: 0 5em 2.2em;
         margin: 0 0.8em 0.5em
     }
     
     .aankopen h2 {
-        padding:0 2.3em 3em;
-        width:100%;
+        padding:0 2.3em 1em;
+        width:70%;
 
     }
     
     .aankopen p {
-        margin: 0 8em 4.5em;
+        margin: 0 8em 3em;
         padding: 0em 2em 1em;
     }
 }
