@@ -24,37 +24,37 @@ Eindelijk heb ik mijn hamburgermenu gemaakt met wat hulp van de bovenstaande bro
 **Screenshot(s):**
 
 Homepage
-![](images/readme_home_full_1)
-![](images/readme_home_full_2)
+![](images/readme_home_full_1.png)
+![](images/readme_home_full_2.png)
 
-![](images/readme_home_part_1)
-![](images/readme_home_part_2)
+![](images/readme_home_part_1.png)
+![](images/readme_home_part_2.png)
 
-![](images/readme_home_mobile_1)
-![](images/readme_home_mobile_2)
+![](images/readme_home_mobile_1.png)
+![](images/readme_home_mobile_2.png)
 
 Hamburgermenu
-![](images/readme_hamburger_full)
+![](images/readme_hamburger_full.png)
 
-![](images/readme_hamburger_part)
+![](images/readme_hamburger_part.png)
 
-![](images/readme_hamburger_mobile)
+![](images/readme_hamburger_mobile.png)
 
 Tweede pagina
-![](images/readme_page_full_1)
-![](images/readme_page_full_2)
-![](images/readme_page_full_3)
-![](images/readme_page_full_4)
+![](images/readme_page_full_1.png)
+![](images/readme_page_full_2.png)
+![](images/readme_page_full_3.png)
+![](images/readme_page_full_4.png)
 
-![](images/readme_page_part_1)
-![](images/readme_page_part_2)
-![](images/readme_page_part_3)
-![](images/readme_page_part_4)
+![](images/readme_page_part_1.png)
+![](images/readme_page_part_2.png)
+![](images/readme_page_part_3.png)
+![](images/readme_page_part_4.png)
 
-![](images/readme_page_mobile_1)
-![](images/readme_page_mobile_2)
-![](images/readme_page_mobile_3)
-![](images/readme_page_mobile_4)
+![](images/readme_page_mobile_1.png)
+![](images/readme_page_mobile_2.png)
+![](images/readme_page_mobile_3.png)
+![](images/readme_page_mobile_4.png)
 
 
 ## Voortgang 3 (week 6)
